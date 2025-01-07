@@ -2,4 +2,5 @@
 chmod +x /usr/local/Ascend/mindie/latest/mindie-service/set_env.sh
 chmod +x /usr/local/Ascend/mindie/latest/mindie-service/bin/mindieservice_daemon
 /usr/local/Ascend/mindie/latest/mindie-service/set_env.sh
+env
 /usr/local/Ascend/mindie/latest/mindie-service/bin/mindieservice_daemon
