@@ -23,5 +23,6 @@ export ASDOPS_LOG_LEVEL=ERROR
 # OCK后处理日志
 export OCK_LOG_LEVEL=ERROR
 export OCK_LOG_TO_STDOUT=0
+ASCEND_HOME_PATH=/usr/local/Ascend/ascend-toolkit/latest
 env
 /usr/local/Ascend/mindie/latest/mindie-service/bin/mindieservice_daemon
